@@ -29,10 +29,7 @@
       "description": "Get this value from https://my.telegram.org or @usetgxbot",
       "value": ""
     },
-    "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot",
-      "value": "699615803 809546777"
-    },
+    
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
       "required": false
